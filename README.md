@@ -1,16 +1,11 @@
-# recap_qizzler
+## Udemy's App Brewery Quizzler Project
 
-A new Flutter project.
+This Flutter project was based on Udemy's App Brewery Flutter course, Section 10: Quizzler.
 
-## Getting Started
+The design is a little different though because I have integrated some of my learnings from the previous sections. If you have any questions just comment here.
 
-This project is a starting point for a Flutter application.
+You can also put down your request related to the course and I will be happy to help with!
 
-A few resources to get you started if this is your first Flutter project:
+Best regards everyone, I'm planning to post some of the section projects here.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.buymeacoffee.com/fedong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
