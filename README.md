@@ -1,6 +1,8 @@
 ## Udemy's App Brewery Quizzler Project
 
+
 This Flutter project was based on Udemy's App Brewery Flutter course, Section 10: Quizzler.
+![Screenshot 2024-01-16 1013](https://github.com/fedong/appbrew-quizzler-app/assets/68859941/0d29793c-8a1a-4330-b2b7-e848960174a0)
 
 The design is a little different though because I have integrated some of my learnings from the previous sections. If you have any questions just comment here.
 
